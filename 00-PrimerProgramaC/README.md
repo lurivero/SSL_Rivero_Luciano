@@ -1,1 +1,1 @@
-no se la verdad que poner aca
+Este es el primer.exe hecho en c para sintaxis y sematica de lenguajes
